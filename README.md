@@ -1,5 +1,7 @@
 # JavaScript Jira API Wrapper for NodeJS
 
+THIS IS A FORK (COPY) OF https://github.com/floralvikings/jira-connector. I ONLY CHANGED THE OAUTH MODULE TO ONE I BUILD FOR MY PURPOSE.
+
 Node.JS module which provides easy-to-use access to the Jira REST API.
 
 ## Important Change in Version 1.0.0
